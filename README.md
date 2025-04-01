@@ -1,2 +1,2 @@
 # credable_data_engineer_project
-Extractin data from an SFTP
+Extracting data from an SFTP
